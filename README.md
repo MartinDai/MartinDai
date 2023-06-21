@@ -43,5 +43,7 @@ Here are some ideas to get you started:
 <a href="https://www.elastic.co" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/elastic.svg" alt="elastic" width="80" height="40"/> </a>
 <a href="https://grafana.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://prometheus.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
+<a href="https://thanos.io" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/thanos.svg" alt="thanos" width="60" height="40"/> </a>
 <a href="https://zookeeper.apache.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40"/> </a>
-
+<a href="https://nginx.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://opentelemetry.io" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/open-telemetry.svg" alt="open-telemetry" width="80" height="40"/> </a>
