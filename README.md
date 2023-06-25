@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋, I'm Martin, a programmer💻🌟
 
-<img src="https://github-readme-stats.vercel.app/api?username=MartinDai&theme=solarized-light&show_icons=true&include_all_commits=true&count_private=true&PAT_1=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" />
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinDai&theme=solarized-light&show_icons=true&include_all_commits=true&count_private=true&PAT_1=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" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinDai&layout=compact&hide=javascript,html,css,scss&PAT_1=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" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
